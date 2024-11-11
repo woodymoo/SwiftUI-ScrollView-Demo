@@ -11,7 +11,7 @@ import SwiftUI
 struct swipedemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SwitchableView()
         }
     }
 }
